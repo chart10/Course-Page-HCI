@@ -110,14 +110,14 @@ a {
   box-shadow: 2px 2px 8px black;
   overflow: hidden;
 }
-.project a {
+/* .project a {
   position: absolute;
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
   z-index: 1;
-}
+} */
 .p1 {
   background: linear-gradient(
       to top,
