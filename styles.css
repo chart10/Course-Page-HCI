@@ -190,6 +190,10 @@ a {
   width: 100%;
   box-shadow: 2px 2px 8px black;
   overflow-y: hidden;
+  scrollbar-width: none;
+}
+.images::-webkit-scrollbar {
+  display: none;
 }
 .underline {
   width: 5rem;
